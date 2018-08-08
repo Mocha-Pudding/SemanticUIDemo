@@ -6,7 +6,7 @@
     width: 64px;
     height: 64px;
     /* border-style: dotted; */
-    background: url('images\grass2.png');
+    background: url('images/man.png');
     background-size: contain;
 }
 
@@ -17,7 +17,7 @@
     box-sizing: border-box;
     width: 128px;
     height: 64px;
-    background: url('images\grass2.png');
+    background: url('images/grass2.png');
     background-size: contain;
 }
 
@@ -29,6 +29,15 @@
     width: 192px;
     height: 64px;
     /* background: rgb(208, 34, 201); */
-    background: url('images\grass2.png');
+    background: url('images/grass2.png');
+    background-size: contain;
+}
+
+.man {
+    box-sizing: border-box;
+    width: 64px;
+    height: 64px;
+    /* background: url('images/ground.png'); */
+    background: orange;
     background-size: contain;
 }
