@@ -1,0 +1,8 @@
+.ui.vertical.basic.segment.nickname1 {
+    height: 600px;
+    background: url('images/dali.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding-left: 40px;
+    padding-right: 40px;
+}
