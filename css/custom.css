@@ -1,8 +1,34 @@
 .ui.vertical.basic.segment.nickname1 {
-    height: 600px;
-    background: url('images/dali.jpg');
+    height: 700px;
+    background-image: url('../images/dali.jpg');
     background-size: cover;
     background-repeat: no-repeat;
     padding-left: 40px;
     padding-right: 40px;
+}
+
+.ui.center.aligned.header.slogan {
+    font-size: 100px;
+    color: white;
+    font-family: "Digital Light";   /*字体*/
+    line-height:160px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.ui.sub.header.slogan {
+    font-size:20px;
+    color: white;
+    font-family: "微软雅黑";
+}
+
+.ui.red.circular.button {
+    width: 200px;
+}
+
+.ui.header.logo {
+    font-size: 24px;
+    color: rgb(152, 155, 156);
 }
