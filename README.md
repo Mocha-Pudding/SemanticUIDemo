@@ -1,8 +1,8 @@
 # SemanticUIDemo
 #用Semantic UI框架来开发静态网页Demo
-
-项目主要截图：  
 </br>
+</br>
+项目主要截图：  
 </br>
 ![ScreenShot of icon](https://github.com/Mocha-Pudding/SemanticUIDemo/blob/master/HomePage_20180810.png)   
 网页标签 icon   
