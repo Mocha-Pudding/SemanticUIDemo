@@ -1,5 +1,10 @@
-# SemanticUIDemo
-#用Semantic UI框架来开发静态网页Demo
+# SemanticUIDemo</br>
+#用Semantic UI框架来开发静态网页Demo</br>
+</br>
+功能点如下(持续补充)↓：</br>
+1.手写CSS，实现个性化定制</br>
+2.
+</br>
 </br>
 项目主要截图↓：</br>
 </br>
